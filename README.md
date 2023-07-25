@@ -6,4 +6,4 @@
 | 2      | Queue          | [QueueClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/QueueClass.java) |
 | 3      | Priority Queue | [PriorityQueueClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/PriorityQueueClass.java) |
 | 4      | Linked List    | [LinkedListClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/LinkedListClass.java) |
-| 5      | Dynamic Array  | [DynamicArrayClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/DynamicArrayClass.java) |
+| 5      | Array List     | [ArrayListClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/ArrayListClass.java) |
