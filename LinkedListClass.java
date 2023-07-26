@@ -20,6 +20,7 @@ public class LinkedListClass {
             insert ---> add(object o) | push(object o) | offer(object o)
             insert first ---> addFirst(object o) | offerFirst(object o)
             insert last ---> addLast(object o) | offerLast(object o)
+            insert at a specific index ---> add(index, object o)
 
             delete ---> remove(object o) | pop(object o) | poll(object o)
             delete first ---> removeFirst(object o) | pollFirst(object o)
@@ -64,6 +65,10 @@ public class LinkedListClass {
         list.offerFirst("Fairy Tail");
 
         System.out.println(list); // [Fairy Tail] -> [Jujitsu Kaisen] -> [Demon Slayer] -> [Naruto]
+
+        list.add(1, "K-ON");
+
+        System.out.println(list); // [Fairy Tail]-> [K-ON] -> [Jujitsu Kaisen] -> [Demon Slayer] -> [Naruto]
 
         list.pollLast(); // [Naruto]
 
