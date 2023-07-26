@@ -7,3 +7,5 @@
 | 3      | Priority Queue | [PriorityQueueClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/PriorityQueueClass.java) |
 | 4      | Linked List    | [LinkedListClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/LinkedListClass.java) |
 | 5      | Dynamic Array  | [DynamicArrayClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/DynamicArray.java) |
+| 6      | Binary Search  | [BinarySearch](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/BinarySearch.java) |
+| 7      | Hash Table     | [HashTableClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/HashTableClass.java) |
