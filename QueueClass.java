@@ -12,9 +12,9 @@ public class QueueClass {
         Linkedlist and PriorityQueue implments the Queue interface
 
         Functions:
-            1. Enqueue --> offer(object o)
-            2. Dequeue --> poll() : doesn't throw exception when empty / [element() / remove()] -> throws exception when empty
-            3. peek()
+            1. Enqueue --> offer(object o) : doesn't throw exception when empty / add() -> throws exception when empty
+            2. Dequeue --> poll() : doesn't throw exception when empty / remove() -> throws exception when empty
+            3. peek() --> doesn't throw exception when empty / element() --> throws exception when empty
             4. isEmpty()
             5. size()
             6. contains(object o) : bolean
