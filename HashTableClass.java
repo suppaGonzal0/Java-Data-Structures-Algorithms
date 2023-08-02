@@ -1,5 +1,3 @@
-import java.util.Hashtable;
-
 public class HashTableClass {
 
     /*
