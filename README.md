@@ -9,4 +9,4 @@
 | 5      | Dynamic Array  | [DynamicArrayClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/DynamicArray.java) |
 | 6      | Binary Search  | [BinarySearch](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/BinarySearch.java) |
 | 7      | Hash Table     | [HashTableClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/blob/main/HashTableClass.java) |
-| 8      | Dynamic Programming     | [HashTableClass](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/tree/main/Dynamic%20Programming) |
+| 8      | Dynamic Programming     | [DynamicProgramming](https://github.com/suppaGonzal0/Java-Data-Structures-Algorithms/tree/main/Dynamic%20Programming) |
